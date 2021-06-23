@@ -1,2 +1,2 @@
 # OxInsight-charts
-Some JS templates for Oxfordshire Insight
+Some JS templates for Oxfordshire Insight.
