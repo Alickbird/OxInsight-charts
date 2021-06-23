@@ -1,0 +1,19 @@
+PorS,District,Count,Lcount
+Primary,Oxford,0.565572813,0.328036723
+Secondary,Oxford,0.533894269,0.310741489
+Total,Oxford,0.552146414,0.320584098
+Primary,Cherwell,0.273846452,0.156428364
+Secondary,Cherwell,0.240010691,0.128235605
+Total,Cherwell,0.259621327,0.144508348
+Primary,Vale of White Horse,0.216619559,0.107968575
+Secondary,Vale of White Horse,0.170039841,0.079968454
+Total,Vale of White Horse,0.19728836,0.096327869
+Primary,South Oxfordshire,0.166498146,0.082331998
+Secondary,South Oxfordshire,0.152696456,0.064530823
+Total,South Oxfordshire,0.160678318,0.074804161
+Primary,West Oxfordshire,0.127711497,0.053655899
+Secondary,West Oxfordshire,0.126184161,0.055637708
+Total,West Oxfordshire,0.127074443,0.054492935
+Primary,Out of County,0.1536,0.058823529
+Secondary,Out of County,0.164235891,0.045372051
+Total,Out of County,0.161217075,0.049079755
